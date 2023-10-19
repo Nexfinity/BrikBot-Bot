@@ -1,0 +1,17 @@
+--- 
+Bot: 
+  BotID: '0'
+  Token: TOKEN_HERE
+  OwnerID: '173439637388263425'
+  MainGuildID: '408424043482447872'
+  BrikSetApiKey: API_KEY_HHERE
+FileSystem:
+  TemporaryFolder: "Temp"
+Values:
+  BotHellLimit: 50
+URIs: 
+  DiscordURL: "https://brikbot.fun/discord"
+  InviteURL: "https://brikbot.fun/invite"
+  WebsiteURL: "https://brikbot.fun"
+  DefaultDiscordIcon: "http://i.imgur.com/tcpgezi.jpg"
+DbConnectionString: server=localhost;user=BrikBot;database=BrikBot;port=3306;password=;charset=utf8mb4
